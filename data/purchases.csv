@@ -4,3 +4,4 @@ purchase_id,purchase_date,product_name,employee_id,amount
 3,'2024-02-03',Humane pin,3,500
 4,'2024-02-04',iPhone,4,700
 5,'2024-02-05',Tesla,5,75000
+6,'2024-02-06',Tesla,6,85000
